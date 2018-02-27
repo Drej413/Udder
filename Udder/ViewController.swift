@@ -23,5 +23,9 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
 //        <#code#>
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        //
+    }
 }
 
